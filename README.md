@@ -17,20 +17,23 @@ Pengembangan sistem ini melibatkan:
 ## Screenshot
 
 <p align="center">
-  <img src="https://github.com/rifqitama16/raspi-arduino-env-monitoring/blob/master/doc/database.jpg">
-  Database lokal (menggunakan MySQL) via Shell
+  <img src="https://github.com/rifqitama16/raspi-arduino-env-monitoring/blob/master/doc/database.jpg"></p>
+<p align="center">
+Database lokal (menggunakan MySQL) via Shell
 </p>
 
 
 
 <p align="center">
-  <img src="https://github.com/rifqitama16/raspi-arduino-env-monitoring/blob/master/doc/web.PNG" width="500" height"200">
-  Web UI (koneksi hanya di jaringan lokal)
+  <img src="https://github.com/rifqitama16/raspi-arduino-env-monitoring/blob/master/doc/web.PNG" width="500" height"200"></p>
+<p align="center">  
+Web UI (koneksi hanya di jaringan lokal)
 </p>
 
 
   
 <p align="center">
-  <img src="https://github.com/rifqitama16/raspi-arduino-env-monitoring/blob/master/doc/android.jpg" width="250" height"500">
-  Android
+  <img src="https://github.com/rifqitama16/raspi-arduino-env-monitoring/blob/master/doc/android.jpg" width="250" height"500"></p>
+<p align="center">
+Android
 </p>
