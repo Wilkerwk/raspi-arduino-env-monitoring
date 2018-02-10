@@ -1,0 +1,8 @@
+Graph.php : file untuk menampilkan grafik.
+Index.php : file untuk menampilkan home, berupa 4 parameter berupa sensor flammable, carbon monoxide, temperature, dan humidity.
+Values.php : file ini mengandung script php untuk mengambil data time, temperature, dan humidity dari database lokal raspi.
+Values2.php : file ini mengandung script php untuk mengambil data time, flammable, dan carbon monoxide dari database lokal raspi.
+folder css : folder ini berisi kumpulan css yang digunakan.
+folder font-awesome : folder ini berisi kumpulan font yang digunakan.
+folder img : folder ini berisi file logo telu.
+folder js : folder ini berisi file js yang digunakan pada website ini.
